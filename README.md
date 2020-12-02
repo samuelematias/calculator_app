@@ -24,7 +24,9 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 10: Testing Futures](https://caster.io/lessons/lesson-10-testing-futures) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson10)
 
-[Lesson 11: Testing Streams](https://caster.io/lessons/lesson-11-testing-streams) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson)
+[Lesson 11: Testing Streams](https://caster.io/lessons/lesson-11-testing-streams) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson11)
+
+[Lesson 12: Writing your first widget test](https://caster.io/lessons/lesson-12-writing-your-first-widget-test) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson12)
 
 ## License
 
