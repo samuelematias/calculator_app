@@ -18,6 +18,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 7: Grouping your tests using the group() function](https://caster.io/lessons/lesson-7-grouping-your-tests-using-the-group-function) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson7)
 
+[Lesson 8: Testing code that throws an Error or an Exception](https://caster.io/lessons/lesson-8-testing-code-that-throws-an-error-or-an-exception) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson8)
+
 ## License
 
 ```
