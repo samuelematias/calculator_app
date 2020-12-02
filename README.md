@@ -8,6 +8,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 2: Writing your first unit test](https://caster.io/lessons/lesson-2-writing-your-first-unit-test) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson2)
 
+[Lesson 3: Running your tests from the terminal](https://caster.io/lessons/lesson-3-running-your-tests-from-the-terminal) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson3)
+
 ## License
 
 ```
