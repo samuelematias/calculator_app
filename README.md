@@ -38,6 +38,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 17: Testing smaller widgets in isolation](https://caster.io/lessons/-lesson-17-testing-smaller-widgets-in-isolation) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson17)
 
+[Lesson 18: Controlling the behavior of your dependencies using mockito](https://caster.io/lessons/lesson-18-controlling-the-behavior-of-your-dependencies-using-mockito) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson18)
+
 ## License
 
 ```
