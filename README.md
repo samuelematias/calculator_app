@@ -49,6 +49,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 22: Using golden files to verify pixel-perfect widgets](https://caster.io/lessons/lesson-22-using-golden-files-to-verify-pixel-perfect-widgets) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson22)
 
+[Lesson 23: Collecting code coverage from your tests](https://caster.io/lessons/lesson-23-collecting-code-coverage-from-your-tests) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson23)
+
 ## License
 
 ```
