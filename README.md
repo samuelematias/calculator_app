@@ -16,8 +16,6 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 6: All you need to know about Matchers](https://caster.io/lessons/lesson-6-all-you-need-to-know-about-matchers) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson6)
 
-[Lesson 7: Grouping your tests using the group() function](https://caster.io/lessons/lesson-7-grouping-your-tests-using-the-group-function) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson7)
-
 ## License
 
 ```
