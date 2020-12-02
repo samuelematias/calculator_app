@@ -36,6 +36,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 16: Verifying your widget tests using a Matcher from flutter_test](https://caster.io/lessons/lesson-16-verifying-your-widget-tests-using-a-matcher-from-flutter_test) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson16)
 
+[Lesson 17: Testing smaller widgets in isolation](https://caster.io/lessons/-lesson-17-testing-smaller-widgets-in-isolation) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson17)
+
 ## License
 
 ```
