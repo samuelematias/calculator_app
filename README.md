@@ -22,6 +22,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 9: Sharing code between tests with setUp() and tearDown()](https://caster.io/lessons/lesson-9-sharing-code-between-tests-with-setup-and-teardown) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson9)
 
+[Lesson 10: Testing Futures](https://caster.io/lessons/lesson-10-testing-futures) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson10)
+
 ## License
 
 ```
