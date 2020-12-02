@@ -6,6 +6,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 1: What is the difference between unit testing, widget testing, and integration testing?](https://caster.io/lessons/lesson-1-what-is-the-difference-between-unit-testing-widget-testing-and-integration-testing) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson1)
 
+[Lesson 2: Writing your first unit test](https://caster.io/lessons/lesson-2-writing-your-first-unit-test) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson2)
+
 ## License
 
 ```
