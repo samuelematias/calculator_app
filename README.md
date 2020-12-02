@@ -12,6 +12,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 4: The structure of a good test](https://caster.io/lessons/lesson-4-the-structure-of-a-good-test) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson4)
 
+[Lesson 5: Using expect() in your tests](https://caster.io/lessons/lesson-5-using-expect-in-your-tests) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson5)
+
 ## License
 
 ```
