@@ -51,6 +51,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 23: Collecting code coverage from your tests](https://caster.io/lessons/lesson-23-collecting-code-coverage-from-your-tests) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson23)
 
+[Lesson 24: Running integration tests with flutter_driver](https://caster.io/lessons/lesson-24-running-integration-tests-with-flutter_driver) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson24)
+
 ## License
 
 ```
