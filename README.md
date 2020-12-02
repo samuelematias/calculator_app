@@ -53,6 +53,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 24: Running integration tests with flutter_driver](https://caster.io/lessons/lesson-24-running-integration-tests-with-flutter_driver) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson24)
 
+[Lesson 25: Taking automated screenshots of your application](https://caster.io/lessons/lesson-25-taking-automated-screenshots-of-your-application) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson25)
+
 ## License
 
 ```
