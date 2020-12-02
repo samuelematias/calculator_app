@@ -34,6 +34,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 15: Interacting with your widgets using WidgetTester](https://caster.io/lessons/lesson-15-interacting-with-your-widgets-using-widgettester) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson15)
 
+[Lesson 16: Verifying your widget tests using a Matcher from flutter_test](https://caster.io/lessons/lesson-16-verifying-your-widget-tests-using-a-matcher-from-flutter_test) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson16)
+
 ## License
 
 ```
