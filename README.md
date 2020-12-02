@@ -47,6 +47,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 21: Verifying interactions with mockito](https://caster.io/lessons/lesson-21-verifying-interactions-with-mockito) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson21)
 
+[Lesson 22: Using golden files to verify pixel-perfect widgets](https://caster.io/lessons/lesson-22-using-golden-files-to-verify-pixel-perfect-widgets) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson22)
+
 ## License
 
 ```
