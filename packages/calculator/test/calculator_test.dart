@@ -7,6 +7,6 @@ void main() {
     final result = calculator.add(2, 2);
     // A test without expect() is considered a bad practice
     // in case of error, this "reason" text, will show on stacktrace.
-    expect(result, 4.000200, reason: 'It should be exactly 4');
+    expect(result, 4.00000, reason: 'It should be exactly 4');
   });
 }
