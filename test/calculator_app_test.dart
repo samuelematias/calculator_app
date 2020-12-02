@@ -11,7 +11,7 @@ void main() {
         find.byType(CalculatorApp),
         matchesGoldenFile('goldens/calculator_app.png'),
       );
-    });
+    }, tags: 'no-ci');
 
     testWidgets('renders four widgets of type TwoDigitOperation',
         (WidgetTester tester) async {
