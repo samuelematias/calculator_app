@@ -1,4 +1,8 @@
+import 'dart:io';
+import 'dart:math';
+
 import 'package:flutter_driver/flutter_driver.dart';
+import 'package:intl/intl.dart';
 import 'package:test/test.dart';
 
 void main() {
@@ -22,14 +26,35 @@ void main() {
   });
 
   test('multiplying 5 and 10 shows 50', () async {
+    await driver.takeScreenshot('no_values_entered');
     await driver.tap(find.byValueKey('textField_top_multiplied by'));
     await driver.enterText('5');
+    await driver.takeScreenshot('entered_5');
     await driver.scrollUntilVisible(
       find.byValueKey('textField_bottom_multiplied by'),
       find.text('multiplied by'),
     );
     await driver.tap(find.byValueKey('textField_bottom_multiplied by'));
     await driver.enterText('10');
+    await driver.takeScreenshot('entered_10');
     await driver.waitFor(find.text('is 50.0'));
+    await driver.takeScreenshot('result_is_50');
   });
+}
+
+extension on FlutterDriver {
+  Future<void> takeScreenshot(String name) async {
+    final DateTime now = DateTime.now();
+    final DateFormat formatter = DateFormat('yyyy-MM-dd hh-mm-ss');
+    final String formatted = formatter.format(now);
+    print(formatted);
+    final filePath = File('screenshots/$name-$now.png');
+    if (await filePath.exists()) {
+      await filePath.delete(recursive: true);
+    }
+    final file = await filePath.create(recursive: true);
+    final png = await screenshot();
+    file.writeAsBytesSync(png);
+    print('screenshot with name $name was taken');
+  }
 }
