@@ -42,6 +42,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 19: Stubbing synchronous methods with mock](https://caster.io/lessons/lesson-19-stubbing-synchronous-methods-with-mockito) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson19)
 
+[Lesson 20: Stubbing asynchronous methods using mockito](https://caster.io/lessons/lesson-20-stubbing-asynchronous-methods-using-mockito) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson20)
+
 ## License
 
 ```
