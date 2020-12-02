@@ -1,6 +1,6 @@
 # calculator_app
 
-Calculator - Caster.IO project to showcase testing techniques
+Calculator - [Caster.IO](https://caster.io) project to showcase testing techniques
 
 ## Class / Branch
 
