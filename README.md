@@ -32,6 +32,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 14: Finding a widget in your widget tree using CommonFinders](https://caster.io/lessons/lesson-14-finding-a-widget-in-your-widget-tree-using-commonfinders) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson14)
 
+[Lesson 15: Interacting with your widgets using WidgetTester](https://caster.io/lessons/lesson-15-interacting-with-your-widgets-using-widgettester) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson15)
+
 ## License
 
 ```
