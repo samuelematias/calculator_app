@@ -28,6 +28,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 12: Writing your first widget test](https://caster.io/lessons/lesson-12-writing-your-first-widget-test) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson12)
 
+[Lesson 13: The difference between pumpWidget(), pump() and pumpAndSettle()](https://caster.io/lessons/lesson-13-the-difference-between-pumpwidget-pump-and-pumpandsettle) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson13)
+
 ## License
 
 ```
