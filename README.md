@@ -10,6 +10,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 3: Running your tests from the terminal](https://caster.io/lessons/lesson-3-running-your-tests-from-the-terminal) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson3)
 
+[Lesson 4: The structure of a good test](https://caster.io/lessons/lesson-4-the-structure-of-a-good-test) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson4)
+
 ## License
 
 ```
