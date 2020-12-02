@@ -30,6 +30,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 13: The difference between pumpWidget(), pump() and pumpAndSettle()](https://caster.io/lessons/lesson-13-the-difference-between-pumpwidget-pump-and-pumpandsettle) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson13)
 
+[Lesson 14: Finding a widget in your widget tree using CommonFinders](https://caster.io/lessons/lesson-14-finding-a-widget-in-your-widget-tree-using-commonfinders) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson14)
+
 ## License
 
 ```
