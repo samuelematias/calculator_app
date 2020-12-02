@@ -55,6 +55,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 25: Taking automated screenshots of your application](https://caster.io/lessons/lesson-25-taking-automated-screenshots-of-your-application) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson25)
 
+[Lesson 26: Running your tests on Github Actions](https://caster.io/lessons/lesson-26-running-your-tests-on-github-actions) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson26)
+
 ## License
 
 ```
