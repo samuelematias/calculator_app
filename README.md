@@ -57,6 +57,8 @@ Calculator - [Caster.IO](https://caster.io) project to showcase testing techniqu
 
 [Lesson 26: Running your tests on Github Actions](https://caster.io/lessons/lesson-26-running-your-tests-on-github-actions) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson26)
 
+[Lesson 27: Using Codemagic for your CI/CD needs](https://caster.io/lessons/lesson-27-using-codemagic-for-your-cicd-needs) 👉🏾 [Branch](https://github.com/samuelematias/calculator_app/tree/lesson27)
+
 ## License
 
 ```
